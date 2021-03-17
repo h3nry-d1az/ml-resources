@@ -20,7 +20,7 @@ $ python audio.py NeRF
 
 
 ## Websites
-In this section you can find websites related to machine learning with its following links:
+In this section you can find websites and tutorials related to machine learning with its following links:
 - [**Packt books site**](https://www.packtpub.com/) - In **ENGLISH**
 - [**Python 3 documentation**](https://docs.python.org/3/) - In **ENGLISH**
 - [**Python packages index (a.k.a PyPi)**](https://pypi.org/) - In **ANY**
@@ -30,3 +30,6 @@ In this section you can find websites related to machine learning with its follo
 - [**PyTorch documentation**](https://pytorch.org/docs/stable/index.html) - In **ENGLISH** 
 - [**Google Colab**](https://colab.research.google.com) - In **ANY**
 - [**GeoGebra graphical calculator**](https://www.geogebra.org/graphing) - In **ANY**
+- [**TensorFlow DCGAN tutorial**](https://www.tensorflow.org/tutorials/generative/dcgan) - In **ANY**
+- [**TensorFlow CycleGAN tutorial**](https://www.tensorflow.org/tutorials/generative/cyclegan) - In **ANY**
+- [**TensorFlow pix2pix tutorial**](https://www.tensorflow.org/tutorials/generative/pix2pix) - In **ANY**
