@@ -17,3 +17,8 @@ $ python download.py NeRF
 $ python audio.py NeRF
 ```
 ***NOTE:*** If you are on a UNIX system, you might use `python3` instead of `python`
+
+
+## Websites
+In this section you can find websites related to machine learning with its following links:
+- [**NumPy documentation**](https://numpy.org/doc/stable/) - In **ENGLISH**
