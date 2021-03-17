@@ -21,4 +21,5 @@ $ python audio.py NeRF
 
 ## Websites
 In this section you can find websites related to machine learning with its following links:
+- [**Packt books site**](https://www.packtpub.com/) - In **ENGLISH**
 - [**NumPy documentation**](https://numpy.org/doc/stable/) - In **ENGLISH**
