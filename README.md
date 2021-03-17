@@ -23,3 +23,5 @@ $ python audio.py NeRF
 In this section you can find websites related to machine learning with its following links:
 - [**Packt books site**](https://www.packtpub.com/) - In **ENGLISH**
 - [**NumPy documentation**](https://numpy.org/doc/stable/) - In **ENGLISH**
+- [**Keras API reference**](https://keras.io/api/) - In **ENGLISH**
+- [**Google Colab**](https://colab.research.google.com) - In **ANY**
