@@ -24,6 +24,10 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Packt books site**](https://www.packtpub.com/) - In **ENGLISH**
 - [**arXiv.org papers site**](https://arxiv.org/) - In **ENGLISH**
 - [**SoloLearn courses website**](https://www.sololearn.com/) - In **ENGLISH**
+- [**Google Activate courses website**](https://learndigital.withgoogle.com/activate) - In **ANY**
+- [**Udemy courses website**](https://www.udemy.com/) - In **ANY**
+- [**Udacity courses website**](https://www.udacity.com/) - In **ENGLISH**
+- [**Coursera courses website**](https://www.coursera.org/) - In **ANY**
 - [**Python 3 documentation**](https://docs.python.org/3/) - In **ENGLISH**
 - [**Python packages index (a.k.a PyPi)**](https://pypi.org/) - In **ANY**
 - [**NumPy documentation**](https://numpy.org/doc/stable/) - In **ENGLISH**
