@@ -22,6 +22,8 @@ $ python audio.py NeRF
 ## Websites
 In this section you can find websites and tutorials related to machine learning with its following links:
 - [**Packt books site**](https://www.packtpub.com/) - In **ENGLISH**
+- [**arXiv.org papers site**](https://arxiv.org/) - In **ENGLISH**
+- [**SoloLearn courses website**](https://www.sololearn.com/) - In **ENGLISH**
 - [**Python 3 documentation**](https://docs.python.org/3/) - In **ENGLISH**
 - [**Python packages index (a.k.a PyPi)**](https://pypi.org/) - In **ANY**
 - [**NumPy documentation**](https://numpy.org/doc/stable/) - In **ENGLISH**
