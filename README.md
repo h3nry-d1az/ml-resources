@@ -28,6 +28,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Udemy courses website**](https://www.udemy.com/) - In **ANY**
 - [**Udacity courses website**](https://www.udacity.com/) - In **ENGLISH**
 - [**Coursera courses website**](https://www.coursera.org/) - In **ANY**
+- [**MIT FREE Machine Learning course**](http://introtodeeplearning.com/) - In **ENGLISH**
 - [**Python 3 documentation**](https://docs.python.org/3/) - In **ENGLISH**
 - [**Python packages index (a.k.a PyPi)**](https://pypi.org/) - In **ANY**
 - [**NumPy documentation**](https://numpy.org/doc/stable/) - In **ENGLISH**
