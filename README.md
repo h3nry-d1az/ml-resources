@@ -52,10 +52,12 @@ In this section you can find websites and tutorials related to machine learning 
 
 ## Books
 In this section you can find books (not papers, go to the articles section instead) related to machine learning with its following links:
+#### Beginner
 - [**The official Python 3 tutorial**](https://bugs.python.org/file47781/Tutorial_EDIT.pdf) - In **ENGLISH**
 - [**An introduction to the R language**](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - In **ENGLISH**
+- [**An introduction to neural networks for beginners**](https://adventuresinmachinelearning.com/wp-content/uploads/2017/07/An-introduction-to-neural-networks-for-beginners.pdf) - In **ENGLISH**
+#### Intermediate
 - [**The official PyTorch tutorial**](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - In **ENGLISH**
 - [**Tutorialspoint TensorFlow tutorial**](https://www.tutorialspoint.com/tensorflow/tensorflow_tutorial.pdf) - In **ENGLISH**
-- [**An introduction to neural networks for beginners**](https://adventuresinmachinelearning.com/wp-content/uploads/2017/07/An-introduction-to-neural-networks-for-beginners.pdf) - In **ENGLISH**
 - [**Natural Language Processing with Python**](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf) - In **ENGLISH**
 - [**scikit-learn official manual**](https://scikit-learn.org/0.18/_downloads/scikit-learn-docs.pdf) - In **ENGLISH**
