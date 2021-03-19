@@ -55,3 +55,4 @@ In this section you can find books (not papers, go to the articles section inste
 - [**The official Python 3 tutorial**](https://bugs.python.org/file47781/Tutorial_EDIT.pdf) - In **ENGLISH**
 - [**An introduction to the R language**](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - In **ENGLISH**
 - [**The official PyTorch tutorial**](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - In **ENGLISH**
+- [**Tutorialspoint TensorFlow tutorial**](https://www.tutorialspoint.com/tensorflow/tensorflow_tutorial.pdf) - In **ENGLISH**
