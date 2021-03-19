@@ -6,7 +6,7 @@ First, install the requirements by running this command:
 ```bash
 $ pip install -r requirements.txt
 ```
-***NOTE:*** If you are on a UNIX system, you might use `pip3` instead of `pip`.
+> **NOTE:** If you are on a UNIX system, you might use `pip3` instead of `pip`.
 
 After installing the requirements, you can download a book/article or read it by running the followings commands:
 ```bash
@@ -16,7 +16,7 @@ $ python download.py NeRF
 # read a book
 $ python audio.py NeRF
 ```
-***NOTE:*** If you are on a UNIX system, you might use `python3` instead of `python`.
+> **NOTE:** If you are on a UNIX system, you might use `python3` instead of `python`.
 
 
 ## Websites
@@ -57,3 +57,4 @@ In this section you can find books (not papers, go to the articles section inste
 - [**The official PyTorch tutorial**](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - In **ENGLISH**
 - [**Tutorialspoint TensorFlow tutorial**](https://www.tutorialspoint.com/tensorflow/tensorflow_tutorial.pdf) - In **ENGLISH**
 - [**An introduction to neural networks for beginners**](https://adventuresinmachinelearning.com/wp-content/uploads/2017/07/An-introduction-to-neural-networks-for-beginners.pdf) - In **ENGLISH**
+- [**Natural Language Processing with Python**](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf) - In **ENGLISH**
