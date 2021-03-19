@@ -6,7 +6,7 @@ First, install the requirements by running this command:
 ```bash
 $ pip install -r requirements.txt
 ```
-***NOTE:*** If you are on a UNIX system, you might use `pip3` instead of `pip`
+***NOTE:*** If you are on a UNIX system, you might use `pip3` instead of `pip`.
 
 After installing the requirements, you can download a book/article or read it by running the followings commands:
 ```bash
@@ -16,7 +16,7 @@ $ python download.py NeRF
 # read a book
 $ python audio.py NeRF
 ```
-***NOTE:*** If you are on a UNIX system, you might use `python3` instead of `python`
+***NOTE:*** If you are on a UNIX system, you might use `python3` instead of `python`.
 
 
 ## Websites
@@ -43,3 +43,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Reinforcement Q-Learning from Scratch in Python with OpenAI Gym tutorial**](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/) - In **ENGLISH**
 - [**Chatbot in Python + NLTK tutorial**](https://www.kdnuggets.com/2019/05/build-chatbot-python-nltk.html) - In **ENGLISH**
 - [**Red neuronal artificial en Python desde 0**](https://www.aprendemachinelearning.com/crear-una-red-neuronal-en-python-desde-cero/) - In **SPANISH**
+
+
+## Books
+In this section you can find books (not papers, go to the articles section instead) related to machine learning with its following links:
