@@ -36,7 +36,8 @@ In this section you can find websites and tutorials related to machine learning 
 - [**NumPy documentation**](https://numpy.org/doc/stable/) - In **ENGLISH**
 - [**TensorFlow API reference**](https://www.tensorflow.org/api_docs/python/tf) - In **ENGLISH**
 - [**Keras API reference**](https://keras.io/api/) - In **ENGLISH**
-- [**PyTorch documentation**](https://pytorch.org/docs/stable/index.html) - In **ENGLISH** 
+- [**PyTorch documentation**](https://pytorch.org/docs/stable/index.html) - In **ENGLISH**
+- [**NLTK documentation**](https://www.nltk.org/) - In **ENGLISH**
 #### Tutorials
 - [**TensorFlow DCGAN tutorial**](https://www.tensorflow.org/tutorials/generative/dcgan) - In **ANY**
 - [**TensorFlow CycleGAN tutorial**](https://www.tensorflow.org/tutorials/generative/cyclegan) - In **ANY**
