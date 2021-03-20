@@ -13,11 +13,11 @@ books = {
     'Natural Language Processing with Python': 'http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf',
     'scikit-learn official manual': 'https://scikit-learn.org/0.18/_downloads/scikit-learn-docs.pdf',
     # Articles
-    'DeepMind AlphaFold': 'https://arxiv.org/abs/1911.05531',
-    'Go-Explore RL Algorithm': 'https://arxiv.org/abs/1901.10995',
-    'Pix2Pix Image Translation': 'https://arxiv.org/abs/1611.07004',
-    'MeInGame Portrait to Game Face': 'https://arxiv.org/abs/2102.02371',
-    'NeRF': 'https://arxiv.org/pdf/2003.08934.pdf'
+    'DeepMind AlphaFold': 'https://arxiv.org/pdf/1911.05531.pdf',
+    'Go-Explore RL Algorithm': 'https://arxiv.org/pdf/1901.10995.pdf',
+    'Pix2Pix Image Translation': 'https://arxiv.org/pdf/1611.07004.pdf',
+    'MeInGame Portrait to Game Face': 'https://arxiv.org/pdf/2102.02371.pdf',
+    'NeRF Scenes as Neural Radiance Fields': 'https://arxiv.org/pdf/2003.08934.pdf'
 }
 
 def usage():
