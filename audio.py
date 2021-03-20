@@ -6,7 +6,17 @@ from sys import argv
 
 
 books = {
-    'NeRF': 'NeRF Representing Scenes as Neural Radiance Fields for View Synthesis.pdf'
+    # Books
+    'The official Python 3 tutorial': 'The official Python 3 tutorial.pdf',
+    'An introduction to the R language': 'An introduction to the R language.pdf',
+    'An introduction to neural networks for beginners': 'An introduction to neural networks for beginners.pdf',
+    'The official PyTorch tutorial': 'The official PyTorch tutorial.pdf',
+    'Tutorialspoint TensorFlow tutorial': 'Tutorialspoint TensorFlow tutorial.pdf',
+    'Natural Language Processing with Python': 'Natural Language Processing with Python.pdf',
+    'scikit-learn official manual': 'scikit-learn official manual.pdf',
+    # Articles
+    'DeepMind AlphaFold': 'DeepMind AlphaFold.pdf',
+    'NeRF': 'NeRF.pdf'
 }
 
 def usage():
