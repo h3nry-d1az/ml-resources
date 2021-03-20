@@ -67,3 +67,4 @@ In this section you can find books (not papers, go to the articles section inste
 In this section you can find papers related to machine learning with its following [**arXiv.org**](https://arxiv.org/) links:
 - [**DeepMind AlphaFold**](https://arxiv.org/abs/1911.05531) - In **ENGLISH**
 - [**Go-Explore RL Algorithm**](https://arxiv.org/abs/1901.10995) - In **ENGLISH**
+- [**Pix2Pix Image Translation**](https://arxiv.org/abs/1611.07004) - In **ENGLISH**

@@ -17,6 +17,7 @@ books = {
     # Articles
     'DeepMind AlphaFold': 'DeepMind AlphaFold.pdf',
     'Go-Explore RL Algorithm': 'Go-Explore RL Algorithm.pdf',
+    'Pix2Pix Image Translation': 'Pix2Pix Image Translation.pdf',
     'NeRF': 'NeRF.pdf'
 }
 

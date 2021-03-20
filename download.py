@@ -15,6 +15,7 @@ books = {
     # Articles
     'DeepMind AlphaFold': 'https://arxiv.org/abs/1911.05531',
     'Go-Explore RL Algorithm': 'https://arxiv.org/abs/1901.10995',
+    'Pix2Pix Image Translation': 'https://arxiv.org/abs/1611.07004',
     'NeRF': 'https://arxiv.org/pdf/2003.08934.pdf'
 }
 
