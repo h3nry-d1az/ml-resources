@@ -16,8 +16,9 @@ books = {
     'DeepMind AlphaFold': 'https://arxiv.org/pdf/1911.05531.pdf',
     'Go-Explore RL Algorithm': 'https://arxiv.org/pdf/1901.10995.pdf',
     'Pix2Pix Image Translation': 'https://arxiv.org/pdf/1611.07004.pdf',
-    'MeInGame Portrait to Game Face': 'https://arxiv.org/pdf/2102.02371.pdf',
-    'NeRF Scenes as Neural Radiance Fields': 'https://arxiv.org/pdf/2003.08934.pdf'
+    'MeInGame: Portrait to Game Face': 'https://arxiv.org/pdf/2102.02371.pdf',
+    'NeRF: Scenes as Neural Radiance Fields': 'https://arxiv.org/pdf/2003.08934.pdf',
+    'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections': 'https://arxiv.org/pdf/2008.02268.pdf'
 }
 
 def usage():

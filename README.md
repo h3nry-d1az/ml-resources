@@ -67,8 +67,9 @@ In this section you can find books (not papers, go to the articles section inste
 In this section you can find papers related to machine learning with its following [**arXiv.org**](https://arxiv.org/) links:
 #### Computer Vision
 - [**Pix2Pix Image Translation**](https://arxiv.org/abs/1611.07004) - In **ENGLISH**
-- [**MeInGame Portrait to Game Face**](https://arxiv.org/abs/2102.02371) - In **ENGLISH**
-- [**NeRF Scenes as Neural Radiance Fields**](https://arxiv.org/abs/2003.08934) - In **ENGLISH**
+- [**MeInGame: Portrait to Game Face**](https://arxiv.org/abs/2102.02371) - In **ENGLISH**
+- [**NeRF: Scenes as Neural Radiance Fields**](https://arxiv.org/abs/2003.08934) - In **ENGLISH**
+- [**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections**](https://arxiv.org/abs/2008.02268) - In **ENGLISH**
 #### Reinforcement Learning
 - [**Go-Explore RL Algorithm**](https://arxiv.org/abs/1901.10995) - In **ENGLISH**
 #### Others
