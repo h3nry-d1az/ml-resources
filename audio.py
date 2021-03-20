@@ -18,6 +18,7 @@ books = {
     'DeepMind AlphaFold': 'DeepMind AlphaFold.pdf',
     'Go-Explore RL Algorithm': 'Go-Explore RL Algorithm.pdf',
     'Pix2Pix Image Translation': 'Pix2Pix Image Translation.pdf',
+    'MeInGame Portrait to Game Face': 'MeInGame Portrait to Game Face.pdf',
     'NeRF': 'NeRF.pdf'
 }
 

@@ -68,3 +68,4 @@ In this section you can find papers related to machine learning with its followi
 - [**DeepMind AlphaFold**](https://arxiv.org/abs/1911.05531) - In **ENGLISH**
 - [**Go-Explore RL Algorithm**](https://arxiv.org/abs/1901.10995) - In **ENGLISH**
 - [**Pix2Pix Image Translation**](https://arxiv.org/abs/1611.07004) - In **ENGLISH**
+- [**MeInGame Portrait to Game Face**](https://arxiv.org/abs/2102.02371) - In **ENGLISH**
