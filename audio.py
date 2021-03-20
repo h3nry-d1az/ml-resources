@@ -20,7 +20,8 @@ books = {
     'Pix2Pix Image Translation': 'Pix2Pix Image Translation.pdf',
     'MeInGame: Portrait to Game Face': 'MeInGame Portrait to Game Face.pdf',
     'NeRF: Scenes as Neural Radiance Fields': 'NeRF Scenes as Neural Radiance Fields.pdf',
-    'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections': 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.pdf'
+    'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections': 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.pdf',
+    'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks': 'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks.pdf'
 }
 
 def usage():

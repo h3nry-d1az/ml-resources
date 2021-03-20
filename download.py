@@ -18,7 +18,8 @@ books = {
     'Pix2Pix Image Translation': 'https://arxiv.org/pdf/1611.07004.pdf',
     'MeInGame: Portrait to Game Face': 'https://arxiv.org/pdf/2102.02371.pdf',
     'NeRF: Scenes as Neural Radiance Fields': 'https://arxiv.org/pdf/2003.08934.pdf',
-    'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections': 'https://arxiv.org/pdf/2008.02268.pdf'
+    'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections': 'https://arxiv.org/pdf/2008.02268.pdf',
+    'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks': 'https://arxiv.org/pdf/1703.10593.pdf'
 }
 
 def usage():
