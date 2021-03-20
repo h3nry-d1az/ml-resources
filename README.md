@@ -11,10 +11,10 @@ $ pip install -r requirements.txt
 After installing the requirements, you can download a book/article or read it by running the followings commands:
 ```bash
 # download a book
-$ python download.py NeRF
+$ python download.py "scikit-learn official manual"
 
 # read a book
-$ python audio.py NeRF
+$ python audio.py "scikit-learn official manual"
 ```
 > **NOTE:** If you are on a UNIX system, you might use `python3` instead of `python`.
 
