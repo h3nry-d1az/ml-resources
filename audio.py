@@ -33,7 +33,7 @@ elif argv[1] == '--booklist':
         print(f'{b} ======> {books[b]}')
 else:
     try:
-        book = open(books[argv[1]])
+        book = open(books[argv[1]], 'rb')
     except Exception as e:
         print(f'Book {argv[1]} could not be found')
         print('----------------')
@@ -44,7 +44,7 @@ else:
     pages = pdfReader.numPages
 
     speaker = pt.init()
-    speaker.setProperty('rate', 125)
+    speaker.setProperty('rate', 130)
 
     for num in range(pages):
         page = pdfReader.getPage(num)
