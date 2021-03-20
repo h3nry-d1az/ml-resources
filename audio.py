@@ -16,6 +16,7 @@ books = {
     'scikit-learn official manual': 'scikit-learn official manual.pdf',
     # Articles
     'DeepMind AlphaFold': 'DeepMind AlphaFold.pdf',
+    'Go-Explore RL Algorithm': 'Go-Explore RL Algorithm.pdf',
     'NeRF': 'NeRF.pdf'
 }
 

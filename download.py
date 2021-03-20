@@ -14,6 +14,7 @@ books = {
     'scikit-learn official manual': 'https://scikit-learn.org/0.18/_downloads/scikit-learn-docs.pdf',
     # Articles
     'DeepMind AlphaFold': 'https://arxiv.org/abs/1911.05531',
+    'Go-Explore RL Algorithm': 'https://arxiv.org/abs/1901.10995',
     'NeRF': 'https://arxiv.org/pdf/2003.08934.pdf'
 }
 
