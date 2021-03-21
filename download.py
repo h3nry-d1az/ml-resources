@@ -26,7 +26,8 @@ books = {
     'BlenderBot: Recipes for building an open-domain chatbot': 'https://arxiv.org/pdf/2004.13637.pdf',
     'Unsupervised Translation of Programming Languages': 'https://arxiv.org/pdf/2006.03511',
     'Playing Atari with Deep Reinforcement Learning': 'https://arxiv.org/pdf/1312.5602',
-    'DeepMind AlphaZero': 'https://arxiv.org/pdf/1712.01815'
+    'DeepMind AlphaZero': 'https://arxiv.org/pdf/1712.01815',
+    'Learning to Simulate Dynamic Environments with GameGAN': 'https://arxiv.org/pdf/2005.12126'
 }
 
 def usage():

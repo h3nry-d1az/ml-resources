@@ -77,6 +77,7 @@ In this section you can find papers related to machine learning with its followi
 - [**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections**](https://arxiv.org/abs/2008.02268) - In **ENGLISH**
 - [**CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks**](https://arxiv.org/abs/1703.10593) - In **ENGLISH**
 - [**StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks**](https://arxiv.org/abs/1812.04948) - In **ENGLISH**
+- [**Learning to Simulate Dynamic Environments with GameGAN**](https://arxiv.org/abs/2005.12126) - In **ENGLISH**
 #### Reinforcement Learning
 - [**Go-Explore RL Algorithm**](https://arxiv.org/abs/1901.10995) - In **ENGLISH**
 - [**Playing Atari with Deep Reinforcement Learning**](https://arxiv.org/abs/1312.5602) - In **ENGLISH**
