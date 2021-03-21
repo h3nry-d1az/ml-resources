@@ -23,7 +23,8 @@ books = {
     'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks': 'https://arxiv.org/pdf/1703.10593.pdf',
     'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks': 'https://arxiv.org/pdf/1812.04948.pdf',
     'GPT-3: Language Models are Few-Shot Learner': 'https://arxiv.org/pdf/2005.14165.pdf',
-    'BlenderBot: Recipes for building an open-domain chatbot': 'https://arxiv.org/pdf/2004.13637.pdf'
+    'BlenderBot: Recipes for building an open-domain chatbot': 'https://arxiv.org/pdf/2004.13637.pdf',
+    'Unsupervised Translation of Programming Languages': 'https://arxiv.org/pdf/2006.03511'
 }
 
 def usage():

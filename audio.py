@@ -25,7 +25,8 @@ books = {
     'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks': 'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks.pdf',
     'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks': 'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.pdf',
     'GPT-3: Language Models are Few-Shot Learners': 'GPT-3: Language Models are Few-Shot Learners.pdf',
-    'BlenderBot: Recipes for building an open-domain chatbot': 'BlenderBot: Recipes for building an open-domain chatbot.pdf'
+    'BlenderBot: Recipes for building an open-domain chatbot': 'BlenderBot: Recipes for building an open-domain chatbot.pdf',
+    'Unsupervised Translation of Programming Languages': 'Unsupervised Translation of Programming Languages.pdf'
 }
 
 def usage():
