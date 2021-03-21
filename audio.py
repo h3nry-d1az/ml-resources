@@ -27,7 +27,8 @@ books = {
     'GPT-3: Language Models are Few-Shot Learners': 'GPT-3: Language Models are Few-Shot Learners.pdf',
     'BlenderBot: Recipes for building an open-domain chatbot': 'BlenderBot: Recipes for building an open-domain chatbot.pdf',
     'Unsupervised Translation of Programming Languages': 'Unsupervised Translation of Programming Languages.pdf',
-    'Playing Atari with Deep Reinforcement Learning': 'Playing Atari with Deep Reinforcement Learning.pdf'
+    'Playing Atari with Deep Reinforcement Learning': 'Playing Atari with Deep Reinforcement Learning.pdf',
+    'DeepMind AlphaZero': 'DeepMind AlphaZero.pdf'
 }
 
 def usage():
