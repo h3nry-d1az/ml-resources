@@ -23,7 +23,8 @@ books = {
     'NeRF: Scenes as Neural Radiance Fields': 'NeRF Scenes as Neural Radiance Fields.pdf',
     'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections': 'NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections.pdf',
     'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks': 'CycleGAN: Image-to-Image Translation using Cycle-Consistent Adversarial Networks.pdf',
-    'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks': 'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.pdf'
+    'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks': 'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.pdf',
+    'GPT-3: Language Models are Few-Shot Learners': 'GPT-3: Language Models are Few-Shot Learners.pdf'
 }
 
 def usage():
