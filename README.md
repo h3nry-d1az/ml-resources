@@ -41,6 +41,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**NLTK documentation**](https://www.nltk.org/) - In **ENGLISH**
 #### Tutorials
 - [**TensorFlow DCGAN tutorial**](https://www.tensorflow.org/tutorials/generative/dcgan) - In **ANY**
+- [**TensorFlow DeepDream tutorial**](https://www.tensorflow.org/tutorials/generative/deepdream) - In **ANY**
 - [**TensorFlow CycleGAN tutorial**](https://www.tensorflow.org/tutorials/generative/cyclegan) - In **ANY**
 - [**TensorFlow pix2pix tutorial**](https://www.tensorflow.org/tutorials/generative/pix2pix) - In **ANY**
 - [**Reinforcement Q-Learning from Scratch in Python with OpenAI Gym tutorial**](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/) - In **ENGLISH**
