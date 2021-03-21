@@ -12,6 +12,7 @@ books = {
     'Tutorialspoint TensorFlow tutorial': 'https://www.tutorialspoint.com/tensorflow/tensorflow_tutorial.pdf',
     'Natural Language Processing with Python': 'http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf',
     'scikit-learn official manual': 'https://scikit-learn.org/0.18/_downloads/scikit-learn-docs.pdf',
+    'Pattern Recognition and Machine Learning': 'https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf',
     # Articles
     'DeepMind AlphaFold': 'https://arxiv.org/pdf/1911.05531.pdf',
     'Go-Explore RL Algorithm': 'https://arxiv.org/pdf/1901.10995.pdf',
