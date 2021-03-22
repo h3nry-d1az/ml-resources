@@ -23,6 +23,7 @@ $ python audio.py "scikit-learn official manual"
 In this section you can find websites and tutorials related to machine learning with its following links:
 #### Courses
 - [**Packt books site**](https://www.packtpub.com/) - In **ENGLISH**
+- [**O'Reilly learning platform**](https://www.oreilly.com/) - In **ENGLISH**
 - [**SoloLearn courses website**](https://www.sololearn.com/) - In **ENGLISH**
 - [**Google Activate courses website**](https://learndigital.withgoogle.com/activate) - In **ANY**
 - [**Udemy courses website**](https://www.udemy.com/) - In **ANY**
