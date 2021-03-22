@@ -25,6 +25,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Packt books site**](https://www.packtpub.com/) - In **ENGLISH**
 - [**O'Reilly learning platform**](https://www.oreilly.com/) - In **ENGLISH**
 - [**SoloLearn courses website**](https://www.sololearn.com/) - In **ENGLISH**
+- [**freeCodeCamp learning platform**](https://www.freecodecamp.org/) - In **ENGLISH**
 - [**Google Activate courses website**](https://learndigital.withgoogle.com/activate) - In **ANY**
 - [**Udemy courses website**](https://www.udemy.com/) - In **ANY**
 - [**Udacity courses website**](https://www.udacity.com/) - In **ENGLISH**
