@@ -29,7 +29,8 @@ books = {
     'Unsupervised Translation of Programming Languages': 'Unsupervised Translation of Programming Languages.pdf',
     'Playing Atari with Deep Reinforcement Learning': 'Playing Atari with Deep Reinforcement Learning.pdf',
     'DeepMind AlphaZero': 'DeepMind AlphaZero.pdf',
-    'Learning to Simulate Dynamic Environments with GameGAN': 'Learning to Simulate Dynamic Environments with GameGAN.pdf'
+    'Learning to Simulate Dynamic Environments with GameGAN': 'Learning to Simulate Dynamic Environments with GameGAN.pdf',
+    'TensorFlow Quantum': 'TensorFlow Quantum.pdf'
 }
 
 def usage():

@@ -24,10 +24,11 @@ books = {
     'StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks': 'https://arxiv.org/pdf/1812.04948.pdf',
     'GPT-3: Language Models are Few-Shot Learner': 'https://arxiv.org/pdf/2005.14165.pdf',
     'BlenderBot: Recipes for building an open-domain chatbot': 'https://arxiv.org/pdf/2004.13637.pdf',
-    'Unsupervised Translation of Programming Languages': 'https://arxiv.org/pdf/2006.03511',
-    'Playing Atari with Deep Reinforcement Learning': 'https://arxiv.org/pdf/1312.5602',
-    'DeepMind AlphaZero': 'https://arxiv.org/pdf/1712.01815',
-    'Learning to Simulate Dynamic Environments with GameGAN': 'https://arxiv.org/pdf/2005.12126'
+    'Unsupervised Translation of Programming Languages': 'https://arxiv.org/pdf/2006.03511.pdf',
+    'Playing Atari with Deep Reinforcement Learning': 'https://arxiv.org/pdf/1312.5602.pdf',
+    'DeepMind AlphaZero': 'https://arxiv.org/pdf/1712.01815.pdf',
+    'Learning to Simulate Dynamic Environments with GameGAN': 'https://arxiv.org/pdf/2005.12126.pdf',
+    'TensorFlow Quantum': 'https://arxiv.org/pdf/2003.02989.pdf'
 }
 
 def usage():
