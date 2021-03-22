@@ -57,6 +57,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Neural Network implementation in C++**](https://contentlab.io/c-neural-network-in-a-weekend/) - In **ENGLISH**
 #### Web tools
 - [**Google Colab**](https://colab.research.google.com) - In **ANY**
+- [**TensorFlow Hub**](https://tfhub.dev/) - In **ENGLISH**
 - [**GeoGebra graphical calculator**](https://www.geogebra.org/graphing) - In **ANY**
 
 
