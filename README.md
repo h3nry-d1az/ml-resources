@@ -54,6 +54,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Red neuronal artificial en Python desde 0**](https://www.aprendemachinelearning.com/crear-una-red-neuronal-en-python-desde-cero/) - In **SPANISH**
 - [**Augmented reality with Python + OpenCV (Part 1)**](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/) - In **ENGLISH**
 - [**Augmented reality with Python + OpenCV (Part 2)**](https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/) - In **ENGLISH**
+- [**Neural Network implementation in C++**](https://contentlab.io/c-neural-network-in-a-weekend/) - In **ENGLISH**
 #### Web tools
 - [**Google Colab**](https://colab.research.google.com) - In **ANY**
 - [**GeoGebra graphical calculator**](https://www.geogebra.org/graphing) - In **ANY**
