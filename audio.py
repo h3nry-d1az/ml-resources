@@ -31,7 +31,8 @@ books = {
     'DeepMind AlphaZero': 'DeepMind AlphaZero.pdf',
     'Learning to Simulate Dynamic Environments with GameGAN': 'Learning to Simulate Dynamic Environments with GameGAN.pdf',
     'TensorFlow Quantum': 'TensorFlow Quantum.pdf',
-    'Analyzing and Improving the Image Quality of StyleGAN': 'Analyzing and Improving the Image Quality of StyleGAN.pdf'
+    'Analyzing and Improving the Image Quality of StyleGAN': 'Analyzing and Improving the Image Quality of StyleGAN.pdf',
+    'Learning to Simulate Complex Physics with Graph Networks': 'Learning to Simulate Complex Physics with Graph Networks.pdf'
 }
 
 def usage():

@@ -95,3 +95,4 @@ In this section you can find papers related to machine learning with its followi
 #### Others
 - [**DeepMind AlphaFold**](https://arxiv.org/abs/1911.05531) - In **ENGLISH**
 - [**TensorFlow Quantum**](https://arxiv.org/abs/2003.02989) - In **ENGLISH**
+- [**Learning to Simulate Complex Physics with Graph Networks**](https://arxiv.org/abs/2002.09405) - In **ENGLISH**
