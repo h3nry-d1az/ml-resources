@@ -28,7 +28,8 @@ books = {
     'Playing Atari with Deep Reinforcement Learning': 'https://arxiv.org/pdf/1312.5602.pdf',
     'DeepMind AlphaZero': 'https://arxiv.org/pdf/1712.01815.pdf',
     'Learning to Simulate Dynamic Environments with GameGAN': 'https://arxiv.org/pdf/2005.12126.pdf',
-    'TensorFlow Quantum': 'https://arxiv.org/pdf/2003.02989.pdf'
+    'TensorFlow Quantum': 'https://arxiv.org/pdf/2003.02989.pdf',
+    'Analyzing and Improving the Image Quality of StyleGAN': 'https://arxiv.org/pdf/1912.04958.pdf'
 }
 
 def usage():

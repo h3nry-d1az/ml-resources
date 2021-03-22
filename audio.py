@@ -30,7 +30,8 @@ books = {
     'Playing Atari with Deep Reinforcement Learning': 'Playing Atari with Deep Reinforcement Learning.pdf',
     'DeepMind AlphaZero': 'DeepMind AlphaZero.pdf',
     'Learning to Simulate Dynamic Environments with GameGAN': 'Learning to Simulate Dynamic Environments with GameGAN.pdf',
-    'TensorFlow Quantum': 'TensorFlow Quantum.pdf'
+    'TensorFlow Quantum': 'TensorFlow Quantum.pdf',
+    'Analyzing and Improving the Image Quality of StyleGAN': 'Analyzing and Improving the Image Quality of StyleGAN.pdf'
 }
 
 def usage():
