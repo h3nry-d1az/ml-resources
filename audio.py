@@ -37,7 +37,8 @@ books = {
     'YOLOv4: Optimal Speed and Accuracy of Object Detection': 'YOLOv4: Optimal Speed and Accuracy of Object Detection.pdf',
     'ResNet: Deep Residual Learning for Image Recognition': 'ResNet: Deep Residual Learning for Image Recognition.pdf',
     'PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models': 'PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.pdf',
-    'Efficient Estimation of Word Representations in Vector Space': 'Efficient Estimation of Word Representations in Vector Space.pdf'
+    'Efficient Estimation of Word Representations in Vector Space': 'Efficient Estimation of Word Representations in Vector Space.pdf',
+    'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity': 'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.pdf'
 }
 
 def usage():
