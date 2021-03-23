@@ -33,7 +33,8 @@ books = {
     'Learning to Simulate Complex Physics with Graph Networks': 'https://arxiv.org/pdf/2002.09405.pdf',
     'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages': 'https://arxiv.org/pdf/2003.07082.pdf',
     'YOLOv4: Optimal Speed and Accuracy of Object Detection': 'https://arxiv.org/pdf/2004.10934.pdf',
-    'ResNet: Deep Residual Learning for Image Recognition': 'https://arxiv.org/pdf/1512.03385.pdf'
+    'ResNet: Deep Residual Learning for Image Recognition': 'https://arxiv.org/pdf/1512.03385.pdf',
+    'PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models': 'https://arxiv.org/pdf/2003.03808.pdf'
 }
 
 def usage():
