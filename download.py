@@ -36,7 +36,8 @@ books = {
     'ResNet: Deep Residual Learning for Image Recognition': 'https://arxiv.org/pdf/1512.03385.pdf',
     'PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models': 'https://arxiv.org/pdf/2003.03808.pdf',
     'Efficient Estimation of Word Representations in Vector Space': 'https://arxiv.org/pdf/1301.3781.pdf',
-    'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity': 'https://arxiv.org/pdf/2101.03961.pdf'
+    'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity': 'https://arxiv.org/pdf/2101.03961.pdf',
+    'D-NeRF: Neural Radiance Fields for Dynamic Scenes': 'https://arxiv.org/pdf/2011.13961.pdf'
 }
 
 def usage():
