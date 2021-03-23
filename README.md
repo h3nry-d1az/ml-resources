@@ -88,6 +88,7 @@ In this section you can find papers related to machine learning with its followi
 - [**Analyzing and Improving the Image Quality of StyleGAN**](https://arxiv.org/abs/1912.04958) - In **ENGLISH**
 - [**Learning to Simulate Dynamic Environments with GameGAN**](https://arxiv.org/abs/2005.12126) - In **ENGLISH**
 - [**YOLOv4: Optimal Speed and Accuracy of Object Detection**](https://arxiv.org/abs/2004.10934) - In **ENGLISH**
+- [**ResNet: Deep Residual Learning for Image Recognition**](https://arxiv.org/abs/1512.03385) - In **ENGLISH**
 #### Reinforcement Learning
 - [**Go-Explore RL Algorithm**](https://arxiv.org/abs/1901.10995) - In **ENGLISH**
 - [**Playing Atari with Deep Reinforcement Learning**](https://arxiv.org/abs/1312.5602) - In **ENGLISH**
