@@ -33,7 +33,8 @@ books = {
     'TensorFlow Quantum': 'TensorFlow Quantum.pdf',
     'Analyzing and Improving the Image Quality of StyleGAN': 'Analyzing and Improving the Image Quality of StyleGAN.pdf',
     'Learning to Simulate Complex Physics with Graph Networks': 'Learning to Simulate Complex Physics with Graph Networks.pdf',
-    'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages': 'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages.pdf'
+    'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages': 'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages.pdf',
+    'YOLOv4: Optimal Speed and Accuracy of Object Detection': 'YOLOv4: Optimal Speed and Accuracy of Object Detection.pdf'
 }
 
 def usage():

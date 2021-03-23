@@ -31,7 +31,8 @@ books = {
     'TensorFlow Quantum': 'https://arxiv.org/pdf/2003.02989.pdf',
     'Analyzing and Improving the Image Quality of StyleGAN': 'https://arxiv.org/pdf/1912.04958.pdf',
     'Learning to Simulate Complex Physics with Graph Networks': 'https://arxiv.org/pdf/2002.09405.pdf',
-    'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages': 'https://arxiv.org/pdf/2003.07082.pdf'
+    'Stanza: A Python Natural Language Processing Toolkit for Many Human Languages': 'https://arxiv.org/pdf/2003.07082.pdf',
+    'YOLOv4: Optimal Speed and Accuracy of Object Detection': 'https://arxiv.org/pdf/2004.10934.pdf'
 }
 
 def usage():
