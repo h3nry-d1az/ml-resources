@@ -38,7 +38,8 @@ books = {
     'Efficient Estimation of Word Representations in Vector Space': 'https://arxiv.org/pdf/1301.3781.pdf',
     'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity': 'https://arxiv.org/pdf/2101.03961.pdf',
     'D-NeRF: Neural Radiance Fields for Dynamic Scenes': 'https://arxiv.org/pdf/2011.13961.pdf',
-    'NeRFies: Deformable Neural Radiance Fields': 'https://arxiv.org/pdf/2011.12948.pdf'
+    'NeRFies: Deformable Neural Radiance Fields': 'https://arxiv.org/pdf/2011.12948.pdf',
+    'RepVGG: Making VGG-style ConvNets Great Again': 'https://arxiv.org/pdf/2101.03697.pdf'
 }
 
 def usage():
