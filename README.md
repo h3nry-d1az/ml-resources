@@ -105,6 +105,8 @@ In this section you can find papers related to machine learning with its followi
 - [**Efficient Estimation of Word Representations in Vector Space**](https://arxiv.org/abs/1301.3781) - In **ENGLISH**
 - [**Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**](https://arxiv.org/abs/2101.03961) - In **ENGLISH**
 - [**BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**](https://arxiv.org/abs/1810.04805) - In **ENGLISH**
+#### Robotics
+- [**Spatial Intention Maps for Multi-Agent Mobile Manipulation**](https://arxiv.org/abs/2103.12710) - In **ENGLISH**
 #### Others
 - [**DeepMind AlphaFold**](https://arxiv.org/abs/1911.05531) - In **ENGLISH**
 - [**TensorFlow Quantum**](https://arxiv.org/abs/2003.02989) - In **ENGLISH**
