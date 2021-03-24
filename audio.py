@@ -41,7 +41,8 @@ books = {
     'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity': 'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.pdf',
     'D-NeRF: Neural Radiance Fields for Dynamic Scenes': 'D-NeRF: Neural Radiance Fields for Dynamic Scenes.pdf',
     'NeRFies: Deformable Neural Radiance Fields': 'NeRFies: Deformable Neural Radiance Fields.pdf',
-    'RepVGG: Making VGG-style ConvNets Great Again': 'RepVGG: Making VGG-style ConvNets Great Again.pdf'
+    'RepVGG: Making VGG-style ConvNets Great Again': 'RepVGG: Making VGG-style ConvNets Great Again.pdf',
+    'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding': 'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf'
 }
 
 def usage():
