@@ -59,6 +59,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Google Colab**](https://colab.research.google.com) - In **ANY**
 - [**TensorFlow Hub**](https://tfhub.dev/) - In **ENGLISH**
 - [**GeoGebra graphical calculator**](https://www.geogebra.org/graphing) - In **ANY**
+- [**Wandb NN Weights & Biases site**](https://wandb.ai/site) - In **ENGLISH**
 
 
 ## Books
