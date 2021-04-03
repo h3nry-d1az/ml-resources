@@ -14,6 +14,7 @@ books = {
     'Tutorialspoint TensorFlow tutorial': 'Tutorialspoint TensorFlow tutorial.pdf',
     'Natural Language Processing with Python': 'Natural Language Processing with Python.pdf',
     'scikit-learn official manual': 'scikit-learn official manual.pdf',
+    'NumPy user guide': 'NumPy user guide.pdf',
     'Pattern Recognition and Machine Learning': 'Pattern Recognition and Machine Learning.pdf',
     # Articles
     'DeepMind AlphaFold': 'DeepMind AlphaFold.pdf',
