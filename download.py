@@ -14,6 +14,7 @@ books = {
     'scikit-learn official manual': 'https://scikit-learn.org/0.18/_downloads/scikit-learn-docs.pdf',
     'NumPy user guide': 'https://numpy.org/doc/1.20/numpy-user.pdf',
     'pandas official manual': 'https://pandas.pydata.org/pandas-docs/stable/pandas.pdf',
+    'Matplotlib official manual': 'https://matplotlib.org/Matplotlib.pdf',
     'Pattern Recognition and Machine Learning': 'https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf',
     # Articles
     'DeepMind AlphaFold': 'https://arxiv.org/pdf/1911.05531.pdf',
