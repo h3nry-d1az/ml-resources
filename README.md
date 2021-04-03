@@ -68,6 +68,7 @@ In this section you can find books (not papers, go to the articles section inste
 - [**The official Python 3 tutorial**](https://bugs.python.org/file47781/Tutorial_EDIT.pdf) - In **ENGLISH**
 - [**An introduction to the R language**](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - In **ENGLISH**
 - [**NumPy user guide**](https://numpy.org/doc/1.20/numpy-user.pdf) - In **ENGLISH**
+- [**pandas official manual**](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf) - In **ENGLISH**
 - [**An introduction to neural networks for beginners**](https://adventuresinmachinelearning.com/wp-content/uploads/2017/07/An-introduction-to-neural-networks-for-beginners.pdf) - In **ENGLISH**
 #### Intermediate
 - [**The official PyTorch tutorial**](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - In **ENGLISH**
