@@ -32,6 +32,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Coursera courses website**](https://www.coursera.org/) - In **ANY**
 - [**MIT FREE Machine Learning course**](http://introtodeeplearning.com/) - In **ENGLISH**
 - [**edX FREE Machine Learning courses**](https://www.edx.org/learn/machine-learning) - In **ENGLISH**
+- [**JuliaAcademy Julia courses website**](https://juliaacademy.com/) - In **ENGLISH**
 - [**Introduction to ML with R**](https://bradleyboehmke.github.io/HOML/intro.html) - In **ENGLISH**
 #### Documentations
 - [**Python 3 documentation**](https://docs.python.org/3/) - In **ENGLISH**
