@@ -44,7 +44,8 @@ books = {
     'NeRFies: Deformable Neural Radiance Fields': 'https://arxiv.org/pdf/2011.12948.pdf',
     'RepVGG: Making VGG-style ConvNets Great Again': 'https://arxiv.org/pdf/2101.03697.pdf',
     'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding': 'https://arxiv.org/pdf/1810.04805.pdf',
-    'Spatial Intention Maps for Multi-Agent Mobile Manipulation': 'https://arxiv.org/pdf/2103.12710.pdf'
+    'Spatial Intention Maps for Multi-Agent Mobile Manipulation': 'https://arxiv.org/pdf/2103.12710.pdf',
+    'Julia: A Fast Dynamic Language for Technical Computing': 'https://arxiv.org/pdf/1209.5145'
 }
 
 def usage():
