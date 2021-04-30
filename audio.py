@@ -47,7 +47,8 @@ books = {
     'RepVGG: Making VGG-style ConvNets Great Again': 'RepVGG: Making VGG-style ConvNets Great Again.pdf',
     'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding': 'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf',
     'Spatial Intention Maps for Multi-Agent Mobile Manipulation': 'Spatial Intention Maps for Multi-Agent Mobile Manipulation.pdf',
-    'Julia: A Fast Dynamic Language for Technical Computing': 'Julia: A Fast Dynamic Language for Technical Computing.pdf'
+    'Julia: A Fast Dynamic Language for Technical Computing': 'Julia: A Fast Dynamic Language for Technical Computing.pdf',
+    'The Julia 1.6 Documentation': 'The Julia 1.6 Documentation.pdf'
 }
 
 def usage():
