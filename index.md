@@ -47,6 +47,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**A step-by-step guide to building a simple chess AI**](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/) - In **ENGLISH**
 - [**TensorFlow object detection tutorial**](https://www.tensorflow.org/hub/tutorials/object_detection) - In **ANY**
 - [**TensorFlow image classification tutorial**](https://www.tensorflow.org/hub/tutorials/image_feature_vector) - In **ANY**
+- [**TensorFlow sound classification tutorial**](https://www.tensorflow.org/hub/tutorials/yamnet) - In **ANY**
 - [**TensorFlow BigGAN image generation tutorial**](https://www.tensorflow.org/hub/tutorials/biggan_generation_with_tf_hub) - In **ANY**
 - [**TensorFlow DCGAN tutorial**](https://www.tensorflow.org/tutorials/generative/dcgan) - In **ANY**
 - [**TensorFlow DeepDream tutorial**](https://www.tensorflow.org/tutorials/generative/deepdream) - In **ANY**
