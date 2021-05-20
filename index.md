@@ -1,5 +1,5 @@
 # Machine Learning resources collection
-Welcome to HDB PROGRAMMING's open source ML (machine learning) resources collection, with books, websites and papers links. This collection also contains an audiobook reader (audio.py) and a downloader (download.py).
+Welcome to H3nry D1az's open source ML (machine learning) resources collection, with books, websites and papers links. This collection also contains an audiobook reader (audio.py) and a downloader (download.py).
 
 #### How can I use the audio.py and download.py modules?
 First, install the requirements by running this command:
@@ -45,6 +45,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**NLTK documentation**](https://www.nltk.org/) - In **ENGLISH**
 #### Tutorials
 - [**A step-by-step guide to building a simple chess AI**](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/) - In **ENGLISH**
+- [**TensorFlow object detection tutorial**](https://www.tensorflow.org/hub/tutorials/object_detection) - In **ANY**
 - [**TensorFlow DCGAN tutorial**](https://www.tensorflow.org/tutorials/generative/dcgan) - In **ANY**
 - [**TensorFlow DeepDream tutorial**](https://www.tensorflow.org/tutorials/generative/deepdream) - In **ANY**
 - [**TensorFlow CycleGAN tutorial**](https://www.tensorflow.org/tutorials/generative/cyclegan) - In **ANY**
