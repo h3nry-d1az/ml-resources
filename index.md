@@ -34,6 +34,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**edX FREE Machine Learning courses**](https://www.edx.org/learn/machine-learning) - In **ENGLISH**
 - [**JuliaAcademy Julia courses website**](https://juliaacademy.com/) - In **ENGLISH**
 - [**Introduction to ML with R**](https://bradleyboehmke.github.io/HOML/intro.html) - In **ENGLISH**
+- [**Aprende Inteligencia Artificial con DotCSV**](https://www.youtube.com/watch?v=KytW151dpqU&list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0) - In **SPANISH**
 #### Documentations
 - [**Python 3 documentation**](https://docs.python.org/3/) - In **ENGLISH**
 - [**arXiv.org papers site**](https://arxiv.org/) - In **ENGLISH**
