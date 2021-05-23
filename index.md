@@ -62,6 +62,7 @@ In this section you can find websites and tutorials related to machine learning 
 - [**Tic Tac Toe AI with MiniMax using Python**](https://youtu.be/JC1QsLOXp-I) - In **ENGLISH**
 - [**Reinforcement Q-Learning from Scratch in Python with OpenAI Gym tutorial**](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/) - In **ENGLISH**
 - [**Chatbot in Python + NLTK tutorial**](https://www.kdnuggets.com/2019/05/build-chatbot-python-nltk.html) - In **ENGLISH**
+- [**Tune any musical instrument with ML5 and Crepe using TensorFlow.js**](https://youtu.be/PCf0fjR1tUk) - In **ENGLISH**
 - [**Red neuronal artificial en Python desde 0**](https://www.aprendemachinelearning.com/crear-una-red-neuronal-en-python-desde-cero/) - In **SPANISH**
 - [**Augmented reality with Python + OpenCV (Part 1)**](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/) - In **ENGLISH**
 - [**Augmented reality with Python + OpenCV (Part 2)**](https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/) - In **ENGLISH**
